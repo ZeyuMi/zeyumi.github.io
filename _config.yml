@@ -1,5 +1,5 @@
 username: zeyumi
-baseurl: /blog
+baseurl: /
 markdown: redcarpet
 safe: false
 pygments: true
