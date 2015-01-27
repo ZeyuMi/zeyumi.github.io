@@ -1,5 +1,5 @@
 username: zeyumi
-baseurl: iswaverly.com
+baseurl: /
 markdown: redcarpet
 safe: false
 pygments: true
