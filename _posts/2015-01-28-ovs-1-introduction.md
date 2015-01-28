@@ -25,6 +25,7 @@ Open vSwitch有两种工作模式，一种是“Normal”模式，另一种是�
 
 ##其他功能
 以上就是Open vSwitch的最核心的功能，它还有一些其他的功能。官网上详细地列出了Open vSwitch的所有特点，如下所示。
+
 ![features](/images/ovs-1-features.png)
 
 除了之前提到的核心功能，剩余的特点可以分成3类：
