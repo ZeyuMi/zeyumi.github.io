@@ -1,3 +1,8 @@
+---
+layout: default
+title: Open vSwitch系列1——介绍
+comments: true
+---
 
 ##写在前面的话
 最近在学习Open vSwitch源码，因为这个项目在Linux kernel space和user space都有代码，所以读起来非常有挑战性。当然，痛苦总是伴随着收获，整个过程里我学到非常多的知识，也积累了一些经验，所以我想把自己的收获记录下来，与大家分享。
